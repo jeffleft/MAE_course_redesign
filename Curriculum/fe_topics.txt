@@ -1,0 +1,15 @@
+ 1 Mathematics
+ 2 Probability and Statistics
+ 3 Computational Tools
+ 4 Ethics and Professional Practice
+ 5 Engineering Economics
+ 6 Electricity and Magnetism
+ 7 Statics
+ 8 Dynamics, Kinematics, and Vibrations
+ 9 Mechanics of Materials
+10 Material Properties and Processing
+11 Fluid Mechanics
+12 Thermodynamics
+13 Heat Transfer
+14 Measurements, Intrumentation, and Controls
+15 Mechanical Design and Analysis
