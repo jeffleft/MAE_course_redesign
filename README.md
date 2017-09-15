@@ -3,4 +3,4 @@ Python tool to generate curriculum flow charts from different universities.
 
 The tool takes data from spreadsheets and creates flow charts using pydot/graphviz. Example:
 
-![UC Davis]("https://raw.githubusercontent.com/jeffleft/MAE_course_redesign/master/flowcharts/UC_Davis.png")
+![UC Davis](https://github.com/jeffleft/MAE_course_redesign/blob/master/flowcharts/UC_Davis.png)
